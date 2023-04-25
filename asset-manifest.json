@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/danielcampoverde/static/css/main.bbf61644.css",
+    "main.css": "/danielcampoverde/static/css/main.98045c30.css",
     "main.js": "/danielcampoverde/static/js/main.93ad2746.js",
     "static/media/resorti.png": "/danielcampoverde/static/media/resorti.1b23f299906553a98641.png",
     "static/media/franki.png": "/danielcampoverde/static/media/franki.a2dd5c43e80c6efcb5ff.png",
     "static/media/martysi.png": "/danielcampoverde/static/media/martysi.e1137e456d9d5155c802.png",
     "index.html": "/danielcampoverde/index.html",
-    "main.bbf61644.css.map": "/danielcampoverde/static/css/main.bbf61644.css.map",
+    "main.98045c30.css.map": "/danielcampoverde/static/css/main.98045c30.css.map",
     "main.93ad2746.js.map": "/danielcampoverde/static/js/main.93ad2746.js.map"
   },
   "entrypoints": [
-    "static/css/main.bbf61644.css",
+    "static/css/main.98045c30.css",
     "static/js/main.93ad2746.js"
   ]
 }
